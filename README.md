@@ -1,38 +1,29 @@
-# Acoustic propagation in an atmospheric medium
+#Acoustic Propagation in an Atmospheric Medium
+#Description
+This project contains a series of Jupyter Notebooks that implement various functionalities allowing for numerical simulations of acoustic propagation in atmospheric media. The Jupyter Notebooks are designed with non-homogeneous atmospheric models without refraction, but they can be replaced with others.
 
-## Descripción
+#Installation
+To install Jupyter Notebook, you can use pip: 
+            pip install notebook
 
-Este proyecto contiene una serie de Jupyter Notebooks que implementan varias funcionalidades que permiten realizar simulaciones numéricas de propagación acústica en medios atmosféricos. 
-Los Jupyter Notebooks están planteados con modelos atmosféricos no homogéneos sin refracción, pero pueden sustituirse por otros.
+The packages used, with their associated pip command, are shown within each Notebook.
 
-## Instalación
+#Usage
+To use these notebooks, you first need to start Jupyter Notebook in your local environment. You can do this by running the following command in your terminal: 
+            jupyter notebook
 
-Para instalar Jupyter Notebook, puedes usar pip: 
-      pip install notebook
-      
-Los paquetes empleados, con su comando pip asociado, se muestran dentro de cada Notebook.
-      
-## Uso
+Then, simply navigate to the notebook you wish to open.
 
-Para usar estos notebooks, primero debes iniciar Jupyter Notebook en tu entorno local. Puedes hacerlo ejecutando el siguiente comando en tu terminal:
-      jupyter notebook
+#Contribution
+Contributions to this project are welcome. If you wish to contribute, please open an Issue or Pull Request.
 
-Luego, simplemente navega hasta el notebook que deseas abrir.
+#License
+This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007.
 
-## Contribución
+#Contact
+If you have any questions or suggestions, please do not hesitate to contact me. Email: jmipose@gmail.com
 
-Las contribuciones a este proyecto son bienvenidas. Si deseas contribuir, por favor abre un Issue o Pull Request.
-
-## Licencia
-
-Este proyecto está licenciado bajo la GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007.
-
-## Contacto
-
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme. Email: jmipose@gmail.com
-
-## Agradecimientos
-
-Agradezco a Andrés Prieto Aneiros y a Graciano Carrillo Pouse por su contribución en este proyecto.
+#Acknowledgements
+I would like to thank Andrés Prieto Aneiros and Graciano Carrillo Pousa for their contribution to this project.
 
 
